@@ -5,7 +5,8 @@ import Portfolio from '../components/Portfolio'
 const work = () => {
   return (
     <div>
-        <Hero heading='My Work' message='This is some of my recent work traveling the world.' />
+        <Hero heading='Pjesemarrjet' message='Disa nga pjesemarrjet tona ne kampionate te ndryshme
+        ne bote.' />
         <Portfolio />
     </div>
   )
