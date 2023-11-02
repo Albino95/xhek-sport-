@@ -40,7 +40,7 @@ const Slider = ({ slides }) => {
               />
               {index === current && (
                 <Image
-                  src={slide.image}
+                  src='/public/a.jpeg'
                   alt='/'
                   width='1440'
                   height='800'
