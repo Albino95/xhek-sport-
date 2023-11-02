@@ -1,63 +1,63 @@
 export const SliderData = [
     {
       image:
-      '/../public/Slider/1.jpeg'  
+      '/public/Slider/1.jpeg'  
     },
     {
       image:
-      '/../public/Slider/2.jpeg',
+      '/public/Slider/2.jpeg',
     },
     {
       image:
-      '/../public/Slider/3.jpeg',
+      '/public/Slider/3.jpeg',
     },
     {
       image:
-      '/../public/Slider/4.jpeg',
+      '/public/Slider/4.jpeg',
     },
     {
       image:
-      '/../public/Slider/5.jpeg',
+      '/public/Slider/5.jpeg',
     },
     {
       image:
-      '/../public/Slider/6.jpeg',
+      '/public/Slider/6.jpeg',
     },
     {
       image:
-      '/../public/Slider/7.jpeg',
+      '/public/Slider/7.jpeg',
     },
     {
       image:
-      '/../public/Slider/8.jpeg',
+      '/public/Slider/8.jpeg',
     },
     {
       image:
-      '/../public/Slider/9.jpeg',
+      '/public/Slider/9.jpeg',
     },
     {
       image:
-      '/../public/Slider/10.jpeg',
+      '/public/Slider/10.jpeg',
     },
     {
       image:
-      '/../public/Slider/11.jpeg',
+      '/public/Slider/11.jpeg',
     },
     {
       image:
-      '/../public/Slider/12.jpeg',
+      '/public/Slider/12.jpeg',
     },
     {
       image:
-      '/../public/Slider/13.jpeg',
+      '/public/Slider/13.jpeg',
     },
     {
       image:
-      '/../public/Slider/14.jpeg',
+      '/public/Slider/14.jpeg',
     },
     {
       image:
-      '/../public/Slider/15.jpeg',
+      '/public/Slider/15.jpeg',
     },
   ];
   
