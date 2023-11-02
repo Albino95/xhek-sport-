@@ -11,7 +11,7 @@ const IgImg44 = '/ig-img-44.jpeg';
 import InstagramImg from './InstagramImg';
 
 const names = {
-  president: ["Muhamed Shehi", "President", IgImg1],
+  president: ["Muhamet Shehi", "President", IgImg1],
   drejtorTeknik: ["Xhekson Titini", "Drejtor Teknik", IgImg2],
   trajneriKombetares: ["Rei Saliasi", "Trajner i Kombetares", IgImg4],
   trajneriKombetares2: ["Bektash Merkuri", "Trajner i Kombetares", IgImg5],
@@ -20,7 +20,6 @@ const names = {
   ndihmesSekretare: ["Olisa Shameti", "Ndihmes Sekretare", IgImg22],
   instruktor2: ["Aron Shehi", "Instruktor", IgImg44],
   instruktor: ["Muslim Selaci", "Instruktor", IgImg6]
-
 }
 
 const Instagram = () => {

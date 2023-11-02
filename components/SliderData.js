@@ -1,7 +1,7 @@
 export const SliderData = [
     {
       image:
-      '/1.jpeg'  
+      '/a.jpeg'  
     },
     {
       image:
