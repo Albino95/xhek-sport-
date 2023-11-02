@@ -1,63 +1,63 @@
 export const SliderData = [
     {
       image:
-      '/public/Slider/1.jpeg'  
+      '/1.jpeg'  
     },
     {
       image:
-      '/public/Slider/2.jpeg',
+      '/2.jpeg',
     },
     {
       image:
-      '/public/Slider/3.jpeg',
+      '/3.jpeg',
     },
     {
       image:
-      '/public/Slider/4.jpeg',
+      '/4.jpeg',
     },
     {
       image:
-      '/public/Slider/5.jpeg',
+      '/5.jpeg',
     },
     {
       image:
-      '/public/Slider/6.jpeg',
+      '/6.jpeg',
     },
     {
       image:
-      '/public/Slider/7.jpeg',
+      '/7.jpeg',
     },
     {
       image:
-      '/public/Slider/8.jpeg',
+      '/8.jpeg',
     },
     {
       image:
-      '/public/Slider/9.jpeg',
+      '/9.jpeg',
     },
     {
       image:
-      '/public/Slider/10.jpeg',
+      '/10.jpeg',
     },
     {
       image:
-      '/public/Slider/11.jpeg',
+      '/11.jpeg',
     },
     {
       image:
-      '/public/Slider/12.jpeg',
+      '/12.jpeg',
     },
     {
       image:
-      '/public/Slider/13.jpeg',
+      '/13.jpeg',
     },
     {
       image:
-      '/public/Slider/14.jpeg',
+      '/14.jpeg',
     },
     {
       image:
-      '/public/Slider/15.jpeg',
+      '/15.jpeg',
     },
   ];
   
